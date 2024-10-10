@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "444145783078",
+    "firebase_url": "https://gkltdd-fc459-default-rtdb.firebaseio.com",
+    "project_id": "gkltdd-fc459",
+    "storage_bucket": "gkltdd-fc459.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444145783078:android:b2f7a51f7e9d851dd331e7",
+        "android_client_info": {
+          "package_name": "com.company.appname"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu1Bd5MJjAsS_744eeqcfARFsOeAOFswY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
